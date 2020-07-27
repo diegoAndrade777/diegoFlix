@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Tranformação Pessoal - Copini",
+      "link": "https://www.youtube.com/channel/UCGPyMhoHjh3EyKUHuiNq0jA",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Copini Series",
+        "url": "https://www.youtube.com/playlist?list=PLTcK0bG8eSgRUtQAvsbsAyDqfGctjlHhY"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Poder da Presença | ep.piloto",
+          "url": "https://www.youtube.com/watch?v=LZuoc1QXivs"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Fluxo Natural | Que Tal Sumir Do Mapa? | ep.02",
+          "url": "https://www.youtube.com/watch?v=PHNj0h3zbYI"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "DESAPEGO | A Arte De Ser Livre | ep.03",
+          "url": "https://www.youtube.com/watch?v=VK9KCNhTpwo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "MINDFULNESS | Faça Tudo Com 100% De Presença | ep.04",
+          "url": "https://www.youtube.com/watch?v=B9bgLlpZQUI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "O Poder da Intenção | ep.05",
+          "url": "https://www.youtube.com/watch?v=0LNWBvZh_bU"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "WU WEI | O Poder Da Não-Ação | ep.06",
+          "url": "https://www.youtube.com/watch?v=zGd3wAvMpeE"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "ADMINISTRAÇÃO DE ENERGIA VITAL | ep.07",
+          "url": "https://www.youtube.com/watch?v=t6oJ1d2tYuY"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "SHAKTI | Desperte O Poder Criativo Para Criar A Realidade | ep.08",
+          "url": "https://www.youtube.com/watch?v=pQfMMywFpOw"
         }        
       ]
     },
