@@ -37,7 +37,7 @@ $ npm start
 ```
 <img align="center" src="src/assets/frontend.gif" width="600px"></img>
 
-Deployed at Vercel. Check:
+## Deployed at Vercel. Check here:
 https://diego-flix.vercel.app/
 
 
