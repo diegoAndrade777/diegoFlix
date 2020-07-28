@@ -22,23 +22,13 @@ In the project directory, you can run:
 ## Instalation
 To install the dependencies and to execute the **Frontend**, clone the project on your computer an execute:
 
-### `yarn start`
-## Frontend
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 To run the React's Frontend use:
 ```bash
 # Enter on frontend directory
 $ cd diegoflix
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-# Install dependencies
 $ npm install
-### `yarn test`
-# Run
 $ npm start
 ```
-<img align="center" src="web/src/assets/frontend.gif" width="600px"></img>
+<img align="center" src="src/assets/frontend.gif" width="600px"></img>
 
 Made with ♥ by Diego Andrade :wave: [Get in touch!](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
