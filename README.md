@@ -32,11 +32,11 @@ $ cd diegoflix
 $ npm install
 $ npm start
 ```
+Check the application deployed at Vercel here:    
+https://diego-flix.vercel.app/
+
  <h1 align="center">
     <img src="src/assets/frontend.gif" width="800px"></img>
 </h1>
-
-## Check the application deployed at Vercel here:    
-https://diego-flix.vercel.app/
 
 Made with ♥ by Diego Andrade :wave: [Get in touch!](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
