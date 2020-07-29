@@ -16,8 +16,8 @@
   </a>
     
   <h1 align="center">
-    FrontEnd - Done!
-    <img src="src/assets/construcao.png"></img>
+    Working in Progress...
+    <img src="src/assets/construcao.gif" width="400px"></img>
   </h1>
 </p>
 
