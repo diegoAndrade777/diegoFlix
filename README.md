@@ -26,7 +26,6 @@ In the project directory, you can run:
 ## Instalation
 To install the dependencies and to execute the **Frontend**, clone the project on your computer an execute:
 
-To run the React's Frontend use:
 ```bash
 # Enter on frontend directory
 $ cd diegoflix
