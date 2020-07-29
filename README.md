@@ -16,8 +16,8 @@
   </a>
     
   <h1 align="center">
-    Working in Progress...
-    <img src="src/assets/construcao.gif"></img>
+    
+    <img title="Working in Progress..." src="src/assets/construcao.gif"></img>
   </h1>
 </p>
 
