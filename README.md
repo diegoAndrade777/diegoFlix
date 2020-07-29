@@ -6,7 +6,6 @@
     Diegoflix is a project similar to Netflix. Developed with NodeJs, ReactJs, Styled Components among others.
 </p>
 
-## Available Scripts
 <p align="center">
   <!--<a aria-label="NodeJs version" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
     <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
