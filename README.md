@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Imersão React Alura" title="#ImersaoReact" src="src/assets/logoImersao.svg" width="250px" />
+    <img alt="Imersão React Alura" title="#ImersaoReact" src="src/assets/logoImersao.svg" width="400px" />
 </h1>
 <h1 align="center">Imersão React Alura</h1>
 <p align="center">Project <strong>Diegoflix</strong> developed during the Alura Imersão React.
-    Diegoflix is a project similar to Netflix. Developed with NodeJs, ReactJs, Styled Components, Redux among others.
+    Diegoflix is a project similar to Netflix. Developed with NodeJs, ReactJs, Styled Components among others.
 </p>
 
 ## Available Scripts
