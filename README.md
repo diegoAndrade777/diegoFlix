@@ -17,7 +17,7 @@
     
   <h1 align="center">
     Working in Progress...
-    <img src="src/assets/construcao.gif"></img>
+    <img src="src/assets/construcao.gif" width="400px"></img>
   </h1>
 </p>
 
