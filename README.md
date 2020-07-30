@@ -6,7 +6,6 @@
     Diegoflix is a project similar to Netflix. Developed with NodeJs, ReactJs, Styled Components among others.
 </p>
 
-## Available Scripts
 <p align="center">
   <!--<a aria-label="NodeJs version" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
     <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
@@ -14,18 +13,17 @@
   <a aria-label="ReactJs version" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#16120-november-14-2019">
     <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
   </a>
+  
+  <h1 align="center" > Working in Progress..." </h1>
     
   <h1 align="center">
-    Working in Progress...
-    <img src="src/assets/construcao.gif" width="400px"></img>
+    <img src="src/assets/construcao.gif" />
   </h1>
 </p>
 
-In the project directory, you can run:
 ## Instalation
 To install the dependencies and to execute the **Frontend**, clone the project on your computer an execute:
 
-To run the React's Frontend use:
 ```bash
 # Enter on frontend directory
 $ cd diegoflix
