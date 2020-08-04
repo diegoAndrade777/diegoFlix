@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
   </a>
   
-  <h1 align="center" > Working in Progress..." </h1>
+  <h1 align="center" > Work in Progress..." </h1>
     
   <h1 align="center">
     <img src="src/assets/construcao.gif" />
