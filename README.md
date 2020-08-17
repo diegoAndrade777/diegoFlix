@@ -28,6 +28,10 @@ To install the dependencies and to execute the **Frontend**, clone the project o
 # Enter on frontend directory
 $ cd diegoflix
 $ npm install
+
+# If you have problems with concurrently:
+$ npm install concurrently
+
 $ npm start
 ```
 Check the application deployed at Vercel here:    
