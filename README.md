@@ -32,7 +32,7 @@ $ npm install
 # If you have problems with concurrently:
 $ npm install concurrently
 
-$ npm start
+$ npm run dev
 ```
 Check the application deployed at Vercel here:    
 https://diego-flix.vercel.app/
